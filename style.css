@@ -6,7 +6,7 @@ box-sizing:border-box;
 body
 {
     font-family:'outfit';
-    background: linear-gradient(#d2a04f,#c8e278);
+    background: linear-gradient(#000000,#ff00dd);
 }
 .contact-container{
     height: 100vh;
@@ -65,7 +65,7 @@ body
     border:none;
     border-radius:50px;
     cursor: pointer;
-    background:linear-gradient(270deg,#488c9b,#aeaeae)
+    background:linear-gradient(270deg,#a89b14,#ae4ca5)
     
 }
 .contact-right ing{
